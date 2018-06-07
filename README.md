@@ -7,7 +7,7 @@ This project aims to make a very simple oscilloscope by using FPGA. All the code
 * VGA connector
 * Monitor (of course must have a VGA input)
 * One female-to-female jumper 
-* Signal generator to give a wave. 
+* Signal generator to give a wave 
 
 ### Make hardware connections
 1. Connect signal generator's positive leg to channel 0 of ADC.
