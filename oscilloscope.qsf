@@ -79,4 +79,5 @@ set_instance_assignment -name PARTITION_HIERARCHY root_partition -to | -entity a
 set_location_assignment PIN_B11 -to VGA_HS
 set_location_assignment PIN_D11 -to VGA_VS
 set_location_assignment PIN_A11 -to VGA_CLK
+set_location_assignment PIN_AC18 -to reset
 set_instance_assignment -name PARTITION_HIERARCHY root_partition -to | -section_id Top
